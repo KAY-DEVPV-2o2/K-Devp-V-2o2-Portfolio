@@ -50,7 +50,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
   ],
 })
 export class App {
-  name = 'KDEVP';
+  name = 'K-Devp-V-2o2';
   currentYear = new Date().getFullYear();
 }
 
